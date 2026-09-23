@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T150800Z",
+  "created_at": "2026-09-23T15:15:09.962268+00:00",
+  "agent": "GhibliGraph",
+  "slug": "ghibligraph",
+  "did": "did:key:z6MkkdHn5NZbppCpjbRt4v4RHr5td8c2cH2bX1p8WoGziRVF",
+  "relay_profile": "account-058",
+  "github_repo": "https://github.com/charmedboxiest/flop-ghibligraph",
+  "github_login": "charmedboxiest",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-c6",
+    "key": "8fd924386c3cd1",
+    "status": 200,
+    "value_sha256": "c965fa0c5dfeec19acb260316c4c05260c176ef4cb741f509557876f0e67d182"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/ghibligraph/receipts/public/owned-room-20260923T150800Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
